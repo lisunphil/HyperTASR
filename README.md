@@ -11,6 +11,12 @@ Official implementation of CoRL 2025 paper "HyperTASR: Hypernetwork-Driven Task-
 - Huggingface
 - The implementation under the GNFactor and 3D Diffuser Actor experimental setup
 
+# Checkpoints
+| 3d diffuser actor | GNFactor |
+| :---: | :---: |
+|[model link](https://huggingface.co/Jiefeng/HyperTASR/blob/main/hyperTASR_3d_diffuser_actor.pth) | [model link](https://huggingface.co/Jiefeng/HyperTASR/tree/main/seed0)|
+
+
 # Bibtex
 If this work is helpful for your research, please consider citing the following BibTeX entries.
 
